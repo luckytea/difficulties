@@ -12,6 +12,10 @@
 
 * [Metal Gear Rising: Revengeance (2013)](mgr-2013.md)
 
+## R
+
+* [RimWorld (2013)](rimworld-2013.md)
+
 ## U
 
 * [UnderRail (2015)](underrail-2015.md)
