@@ -8,6 +8,12 @@
 | [Okay]     |            |               ✅ |
 | [Gnarly]   |            |               ✅ |
 
+### Chill
+
+### Okay
+
+### Gnarly
+
 ## Game modes
 
 ### Arcade mode
