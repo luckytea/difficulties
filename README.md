@@ -16,6 +16,10 @@
 
 * [RimWorld (2013)](rimworld-2013.md)
 
+## T
+
+* [Teenage Mutant Ninja Turtles: Shredder's Revenge](tmnt-shredders-revenge-2022.md)
+
 ## U
 
 * [UnderRail (2015)](underrail-2015.md)
