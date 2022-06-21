@@ -12,4 +12,6 @@
 
 ### Arcade mode
 
+For players craving a harder challenge! Limited lives, continues and no save progression. This is the classic arcade-like expirience!
+
 ### Story mode
