@@ -5,14 +5,12 @@
 
 ## Difficulty levels
 
-
-| Name       | Desc | opened initially | 
+| Name       | Desc | opened initially |
 |------------|------|------------------|
 | [Easy](#easy)       | This is for people who find the combat on normal difficulty a bit too hard for their taste. | ✅ |
 | [Normal](#normal)     | Provides a lot of challenge to an average hardcore gamer with less room for error in combat. This is the way the game is meant to be played. | ✅ |
 | [Hard](#hard)       | This difficulty is meant for experienced players as it leaves very little room for error. | ✅ |
 | [DOMINATING](#dominating) | This difficulty is for the Underrail veterans that no longer find the game challenging enough. | ✅ |
-
 
 | Setting | Easy | Normal | Hard | DOMINATING |
 |---------|------|--------|------|------------|
@@ -32,25 +30,25 @@
 
 ### Easy
 
-- Player characters has double the normal amount of health, while medical consumables heal for more and have reduced cooldown.
-- Some encounters have been made easeier either in enemy numbers or through other means.
-- NPCs will on occasion act less intellegently than normal difficulty.
+* Player characters has double the normal amount of health, while medical consumables heal for more and have reduced cooldown.
+* Some encounters have been made easeier either in enemy numbers or through other means.
+* NPCs will on occasion act less intellegently than normal difficulty.
 
 ### Normal
 
 ### Hard
 
-- Player character has reduced health, while medical consumables heal for less and have increased cooldown.
-- Some encounters have been made harder either in enemy numbers or through other means.
-- NPCs will on occasion act more intelligently than on normal difficulty.
-- Items are sold for 50% of their value.
+* Player character has reduced health, while medical consumables heal for less and have increased cooldown.
+* Some encounters have been made harder either in enemy numbers or through other means.
+* NPCs will on occasion act more intelligently than on normal difficulty.
+* Items are sold for 50% of their value.
 
 ### DOMINATING
 
-- In addition to player health and cooldown modification and additional NPC intelligence, it also increases the regular intelligence, it also increases the regular NPC health by 50% and their skill levels by 30% (this bonus is even greater for certain special "boss" NPCs).
-- A lot of encounters have been spiced up with many additional enemies or made extremely hard through other means.
-- Items are sold for 25% of their value.
-- We do not guarantee that the game can be completed in this mode so choose at your own peril.
+* In addition to player health and cooldown modification and additional NPC intelligence, it also increases the regular intelligence, it also increases the regular NPC health by 50% and their skill levels by 30% (this bonus is even greater for certain special "boss" NPCs).
+* A lot of encounters have been spiced up with many additional enemies or made extremely hard through other means.
+* Items are sold for 25% of their value.
+* We do not guarantee that the game can be completed in this mode so choose at your own peril.
 
 ## Experience System
 

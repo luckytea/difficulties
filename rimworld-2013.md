@@ -6,7 +6,7 @@
 
 ## Difficulty levels
 
-| Name       | Desc | opened initially | 
+| Name       | Desc | Opened initially |
 |------------|------|------------------|
 | [Peaceful](#peaceful) | Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur. | ✅ |
 | [Community builder](#community-builder) / Easy | Build a community with a taste of danger. Threats appear, but they're weakened.| ✅ |
@@ -24,51 +24,51 @@ The difficulty is selected separately from the storyteller, but both are changea
 
 Recommended for:
 
-- Players who want to learn the game mechanics with minimal pressure.
-- Players who just want to build.
-- Players who just want to relax.
+* Players who want to learn the game mechanics with minimal pressure.
+* Players who just want to build.
+* Players who just want to relax.
 
 ### Community builder
 
 Recommended for:
 
-- Players who are new to this kind of game.
-- Players who want to build a perfect colony.
-- Players who want to relax.
+* Players who are new to this kind of game.
+* Players who want to build a perfect colony.
+* Players who want to relax.
 
 ### Adventure story
 
 Recommended for:
 
-- Experienced strategy gamers on their first game of RimWorld.
-- Experienced RimWorld players who want some breathing room to pursue funny or weird goals.
+* Experienced strategy gamers on their first game of RimWorld.
+* Experienced RimWorld players who want some breathing room to pursue funny or weird goals.
 
 ### Strive to survive
 
 Recommended for:
 
-- Experienced players who want a rough story requiring skill to survive.
+* Experienced players who want a rough story requiring skill to survive.
 
 ### Blood and dust
 
 Recommended for:
 
-- Experienced players who want to struggle to survive.
+* Experienced players who want to struggle to survive.
 
 ### Losing is fun
 
 Recommended for:
 
-- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.
-- Lovers of tragedy.
-- Digital masochists.
+* Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.
+* Lovers of tragedy.
+* Digital masochists.
 
 ### Custom
 
 Recommended for:
 
-- Players who are happy with one of the standard playstyles levels, but want to change a few things.
-- Players who want to experiment with something different.
+* Players who are happy with one of the standard playstyles levels, but want to change a few things.
+* Players who want to experiment with something different.
 
 ## AI Storytellers
 
@@ -78,7 +78,7 @@ AI storytellers are driving the gameplay and their choices will affect the story
 
 The one that you choose will make decisions about what events it wants you to encounter and when based on the situation you are currently in and on the biases of that particular AI.
 
-Choosing an AI will have a great influence on the narrative that is formed as you play. 
+Choosing an AI will have a great influence on the narrative that is formed as you play.
 
 ### Cassandra Classic
 

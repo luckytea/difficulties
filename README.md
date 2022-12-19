@@ -8,6 +8,10 @@
 
 * [The Evil Within (2014)](evil-within-2014.md)
 
+## F
+
+* [Fear & Hunger 2: Termina (2022)](fear-and-hunger-termina-2022.md)
+
 ## M
 
 * [Metal Gear Rising: Revengeance (2013)](mgr-2013.md)

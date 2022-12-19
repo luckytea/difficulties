@@ -2,7 +2,7 @@
 
 ## Difficulty levels
 
-| Name        | Desc | opened initially | 
+| Name        | Desc | Opened initially |
 |-------------|------|------------------|
 | EASY        | The right choice for players who just want to sit back and enjoy the story. Combat will not pose a challenge. | ✅ |
 | NORMAL      | Enemies will have all the tools at their disposal to take V on, but primarily only enemies at higer level will prove a challenge. | ✅ |

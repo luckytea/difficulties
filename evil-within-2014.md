@@ -1,14 +1,14 @@
 # The Evil Within (2014) by Tango Gameworks / Bethesda Softworks
 
-## Уровни сложности
+## Difficulty levels
 
-| сложность   | открыта изначально | 
-|-------------|--------------------|
-| Casual      | ✅                 |
-| Survival    | ✅                 |
-| Nightmare   | ✅                 |
-| 悪夢 -AKUMU- | ❌                 |
-| KURAYAMI    | ❌                 |
+| Name        | Opened initially |
+|-------------|------------------|
+| Casual      | ✅               |
+| Survival    | ✅               |
+| Nightmare   | ✅               |
+| 悪夢 -AKUMU- | ❌               |
+| KURAYAMI    | ❌               |
 
 ### Casual
 
