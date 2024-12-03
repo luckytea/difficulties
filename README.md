@@ -1,5 +1,8 @@
 # difficulties
 
+* [Игровые механики](game_mechanics.md)
+* Игры
+
 ## C
 
 * [Cyberpunk 2077 (2020)](cyberpunk2077-2020.md)
