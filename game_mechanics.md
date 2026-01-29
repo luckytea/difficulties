@@ -11,7 +11,7 @@
 <details>
   <summary>Игры</summary>
   
-  * [Fear & Hunger 2: Termina (2022)](fear-and-hunger-termina-2022.md)
+* [Fear & Hunger 2: Termina (2022)](fear-and-hunger-termina-2022.md)
 
 </details>
 
@@ -20,7 +20,7 @@
 <details>
   <summary>Игры</summary>
   
-  * [RimWorld (2013)](rimworld-2013.md)
+* [RimWorld (2013)](rimworld-2013.md)
 
 </details>
 
@@ -29,6 +29,6 @@
 <details>
   <summary>Игры</summary>
   
-  * [Need for Speed: Underground (2003)](nsf%3Aunderground-2003.md)
+* [Need for Speed: Underground (2003)](nsf%3Aunderground-2003.md)
 
 </details>

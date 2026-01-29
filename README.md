@@ -9,11 +9,16 @@
 
 ## E
 
+* [Escape from Tarkov (2025)](escape-from-tarkov-2025.md)
 * [The Evil Within (2014)](evil-within-2014.md)
 
 ## F
 
 * [Fear & Hunger 2: Termina (2022)](fear-and-hunger-termina-2022.md)
+
+## I
+
+* [Intravenous 2 (2023)](Intravenous-2-2023.md)
 
 ## M
 
